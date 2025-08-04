@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+openai
+python-multipart
+chromadb
+sentence-transformers
+PyPDF2
+python-dotenv
+requests
+langchain
+langchain-openai
+langchain-community
+pdfplumber 
+tiktoken

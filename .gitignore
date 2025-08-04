@@ -1,0 +1,26 @@
+# virtual environment
+venv/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.so
+
+# Log and temporary files
+*.log
+*.tmp
+
+# env file
+.env
+
+# streamlit-specific files
+.streamlit/
+.streamlit/config.toml
+
+# IDE files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# os files
+.DS_Store
+Thumbs.db
