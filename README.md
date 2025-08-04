@@ -5,10 +5,19 @@ This project is a chatbot that answers questions based on documents uploaded by 
 Backend: FastAPI  
 Frontend: Streamlit
 
-## Prerequisites
-Python 3.8 or higher
+## Getting Started
+Follow these steps to get the project up and running on your local machine.  
 
-## Create virtual environment
+## Prerequisites
+Python 3.8 or higher required
+
+## Clone the repository and set up the environment
+First, clone this repository and navigate to the project directory.  
+
+git clone "repo_link"  
+cd chatbot
+
+## Create and activate virtual environment
 python -m venv venv  
 
 On Windows  
